@@ -4,7 +4,6 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis erat sed est efficitur egestas fringilla non libero. Aenean porta eget erat ut fermentum. Mauris urna risus, vulputate lacinia consequat id, auctor sed magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed ultricies velit nec felis feugiat, sit amet gravida nibh gravida. Quisque porttitor ipsum a ipsum porta accumsan. Nullam sagittis rutrum tincidunt.
 
----
 
 ## Languages and tools
 <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
