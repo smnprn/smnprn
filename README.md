@@ -1,19 +1,19 @@
 # 🎸 Hi there, I'm Simone! 
 
-**`Java and Kotlin developer`**
+**`Backend developer`**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis erat sed est efficitur egestas fringilla non libero. Aenean porta eget erat ut fermentum. Mauris urna risus, vulputate lacinia consequat id, auctor sed magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed ultricies velit nec felis feugiat, sit amet gravida nibh gravida. Quisque porttitor ipsum a ipsum porta accumsan. Nullam sagittis rutrum tincidunt.
 
 
 ## Languages and tools
+<br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,kotlin,js,html,css,mysql,git,linux" />
   </a>
 </p>
 
-<br>
-<br>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnprn&layout=compact&theme=github_dark)
