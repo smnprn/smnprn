@@ -1,11 +1,11 @@
 Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Simone
 ==============================================================================================================================
 
-**`Backend developer`**
+**`Back-end developer`**
 
 -----------------
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis erat sed est efficitur egestas fringilla non libero. Aenean porta eget erat ut fermentum. Mauris urna risus, vulputate lacinia consequat id, auctor sed magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed ultricies velit nec felis feugiat, sit amet gravida nibh gravida. Quisque porttitor ipsum a ipsum porta accumsan. Nullam sagittis rutrum tincidunt.
+
 
 *   🌍  I'm based in Italy
 *   ✉️  You can contact me at [simoneperna8@gmail.com](mailto:simoneperna8@gmail.com)
