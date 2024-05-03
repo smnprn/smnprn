@@ -23,8 +23,11 @@ Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 <br>
 
+<div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnprn&layout=compact&theme=github_dark)
 
+</div>
 
 ## Socials
                   
