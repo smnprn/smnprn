@@ -3,21 +3,19 @@ Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 **`Back-end developer`**
 
------------------
-
 
 
 *   🌍  I'm based in Italy
 *   ✉️  You can contact me at [simoneperna8@gmail.com](mailto:simoneperna8@gmail.com)
 *   🚀  I'm currently working on [App Store Client](http://github.com/smnprn/app-store-client)
-*   🧠  I'm learning Hibernate, Tomcat, Spring Boot, JUnit
+*   🧠  I'm learning Spring Boot, JUnit, Go
 
 ## Languages and tools
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,js,html,css,mysql,git,linux" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,js,html,css,mysql,git,linux" />
   </a>
 </p>
 
